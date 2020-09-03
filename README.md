@@ -1,5 +1,5 @@
 # IRIS4H-OAuth2-ハンズオン　サンプル
-このサンプルは、[InterSystems 開発者コミュニティ](https://jp.intersystems.com)に掲載している[記事](https://jp.community.intersystems.com/node/481066/)のサンプルです。
+このサンプルは、[InterSystems 開発者コミュニティ](https://jp.community.intersystems.com)に掲載している[記事](https://jp.community.intersystems.com/node/481066/)のサンプルです。
 
 詳細はコミュニティの記事をご参照ください。
 
