@@ -1,6 +1,9 @@
 # IRIS4H-OAuth2-ハンズオン　サンプル
-このサンプルでは、[Dockerfile](/Dockerfile)と[docker-compose.yml](/docker-compose.yml)を使用して、IRIS for Health 2020.3 Preview versionとApacheのSSL設定を行います。
+このサンプルは、InterSystems 開発者コミュニティに掲載の[記事](https://jp.community.intersystems.com/node/481066/)のサンプルです。
 
+詳細はコミュニティの記事をご参照ください。
+
+このサンプルでは、[Dockerfile](/Dockerfile)と[docker-compose.yml](/docker-compose.yml)を使用して、IRIS for Health 2020.3 Preview versionとApacheのSSL設定を行います。
 
 ## 事前準備
 
